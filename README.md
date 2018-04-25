@@ -48,3 +48,9 @@ Como métricas para avaliação de eficácia desse modelo proposta sugerimos:
 ### Critérios de aceitação
 
 Diante dos itens expostos, nós concordamos que esse modelo de trabalho remoto é de interesse do Time UFABC e não responsabilizamos a contratante por qualquer ônus relacionados à Internet, equipamentos, mobiliários de escritórios e outros custos.
+
+### Membros que concordam com o modelo proposto
+
+:+1: Vinícius Feitosa da Silva
+
+### Membros que não concordam com o modelo proposto
