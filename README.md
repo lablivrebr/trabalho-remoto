@@ -2,6 +2,8 @@
 
 Este repositório tem como função mapear possibilidades para trabalho remoto.
 
+Escala : [proposta-escala.md](proposta-escala.md)
+
 ### Time UFABC:
 - Cleber
 - Pedro
