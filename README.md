@@ -57,5 +57,6 @@ Diante dos itens expostos, nós concordamos que esse modelo de trabalho remoto �
 - :+1: Cleber Costa dos Santos
 - :+1: Wouerner Brandão
 - :+1: Leonardo Volthier Barbosa Gomes
+- :+1: Pedro Philipe Alves de Oliveira
 
 ### Membros que não concordam com o modelo proposto
