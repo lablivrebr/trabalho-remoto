@@ -1,14 +1,29 @@
 # Proposta de escalas
 
-### Maio - 1ª Semana
+### Maio - 2ª Semana
 
-15/05/2018
-- Vinícius
-
-16/05/2018
-- Cleber
+21/05/2018
+- Wouerner
 - Léo
 
-17/05/2018
+22/05/2018
+- Vinícius
+
+23/05/2018
+- Cleber
+
+24/05/2018
 - Pedro
-- Wouerner
+
+~~### Maio - 1ª Semana~~
+
+~~15/05/2018~~
+~~- Vinícius~~
+
+~~16/05/2018~~
+~~- Cleber~~
+~~- Léo~~
+
+~~17/05/2018~~
+~~- Pedro~~
+~~- Wouerner~~~~
