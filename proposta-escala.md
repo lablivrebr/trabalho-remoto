@@ -2,15 +2,13 @@
 
 ### Maio - 2ª Semana
 
-21/05/2018
-- Wouerner
-- Léo
-
 22/05/2018
 - Vinícius
+- Wouerner
 
 23/05/2018
 - Cleber
+- Léo
 
 24/05/2018
 - Pedro
