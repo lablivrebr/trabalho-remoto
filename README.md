@@ -39,7 +39,7 @@ Inicialmente gostaríamos de experimentar esse modelo durante 2 semanas, inician
 - Criação de escala para definir qual dia que a pessoa poderá trabalhar remotamente sempre na sexta-feira.
 - Realizar Check-in(avisar que está disponível) na ferramenta de chat;
 - Realizar Check-out(avisar que finalizou) na ferramenta de chat;
-- Intervalo de 14hs às 18hs é um horário obrigatório para trabalho remoto que todos precisam estar disponíveis.
+- Intervalo de 14hs às 16hs é um horário obrigatório para trabalho remoto que todos precisam estar disponíveis.
 - Reunião diária fica estabelecida sempre às 14:30
 	
 ### Métricas
