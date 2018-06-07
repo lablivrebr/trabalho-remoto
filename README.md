@@ -69,5 +69,6 @@ Diante dos itens expostos, nós concordamos que esse modelo de trabalho remoto �
 - :+1: Pedro Philipe Alves de Oliveira
 - :+1: André "decko" de Brito
 - :+1: Izabela Cristina Nere Rodrigues Cardoso
+- :+1: Ruan Nawê Herculano Pereira
 
 ### Membros que não concordam com o modelo proposto
