@@ -11,8 +11,9 @@ Escala : [proposta-escala.md](proposta-escala.md)
 - Leonardo
 - Avaloni
 - Vinícius
-- decko
+- Decko
 - Izabela
+- Ruan
 
 ### Pré-Requisito
 - Internet estável
