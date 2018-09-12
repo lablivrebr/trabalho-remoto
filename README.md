@@ -14,6 +14,7 @@ Escala : [proposta-escala.md](proposta-escala.md)
 - Decko
 - Izabela
 - Ruan
+- Paulo Henrique
 
 ### Pré-Requisito
 - Internet estável
@@ -71,5 +72,6 @@ Diante dos itens expostos, nós concordamos que esse modelo de trabalho remoto �
 - :+1: André "decko" de Brito
 - :+1: Izabela Cristina Nere Rodrigues Cardoso
 - :+1: Ruan Nawê Herculano Pereira
+- :+1: Paulo Henrique Mendes
 
 ### Membros que não concordam com o modelo proposto
